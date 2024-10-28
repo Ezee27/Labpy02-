@@ -1,8 +1,8 @@
-Nama: ANDREAN PUTRA ARYA
+Nama: ZAENAL MAULANA RIZKI
 
 Kelas: TI.24.A4
 
-NIM: 312410341
+NIM: 312410332
 
 Matkul: Bahasa Pemrograman
 
