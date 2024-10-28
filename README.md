@@ -190,12 +190,12 @@ Bagian ini memeriksa tiga kondisi menggunakan operator logika `or`, jika salah s
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/d8ce1dc85a0b9d6be31b9beb4807cfc671de17d1/Image/Screenshot%20From%202024-10-24%2021-43-48.png)
+![Screenshot (46)](https://github.com/user-attachments/assets/d4908db4-8ef3-4d6a-9534-1fcb9439f10c)
 
 # Latihan3
 # Program tiket bioskop
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/6942999a26dab6f76408be80cc7de75c5f8f5f05/Image/Screenshot%20From%202024-10-25%2007-25-48.png)
+![Screenshot From 2024-10-25 07-25-48](https://github.com/user-attachments/assets/2f9fa784-6b7c-46d1-a3ee-e785b82e5485)
 
 ```python
 # Fungsi untuk menghitung harga tiket
