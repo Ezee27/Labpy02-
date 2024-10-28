@@ -16,7 +16,8 @@ else : Digunakan untuk menentukan apa yang terjadi jika kondisi `if` adalah sala
 elif : digunakan untuk mengevaluasi beberapa kondisi. Jika kondisi `if` pertama salah, Python akan mengevaluasi kondisi `elif`. Anda bisa memiliki beberapa `elif`
 
 # Soal latihan
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/19b4a2a541275b622b9e9e3880e4f1d67f5d0ee8/Image/Screenshot%20From%202024-10-24%2020-34-23.png)
+![Screenshot From 2024-10-24 20-34-23](https://github.com/user-attachments/assets/f8dbc4c6-fcd1-49de-b9e2-e96de8af040c)
+
 
 # Program menentukan nilai akhir
 ```python
