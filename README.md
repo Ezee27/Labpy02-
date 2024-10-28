@@ -277,15 +277,15 @@ Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/0f98f3510cceada4aaa8bf575442a8458fc47d81/Image/Screenshot%20From%202024-10-25%2007-58-51.png)
+![Screenshot (47)](https://github.com/user-attachments/assets/1ff29a57-b4ea-4b6b-9d47-2ca1beb169d4)
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/c058ac1876eb09c3636a47edd05c0df544c7b668/Image/Biskop.png)
+![Screenshot (48)](https://github.com/user-attachments/assets/ba884b84-ccaf-4cd2-8324-79b8439ca699)
 
 Dan ini flowchart nya
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/6478a017cad461f2f5d5a1b6931d4ac7004497dd/Image/tiket%20biskop.png)
+![tiket biskop](https://github.com/user-attachments/assets/e4954a9c-ed41-4b0a-9371-eff8caf81703)
 
 # Program kalkulator sederhana
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/e5c4003cbb820d9875a5e7ae0053af58ef5d122c/Image/Screenshot%20From%202024-10-25%2007-25-56.png)
