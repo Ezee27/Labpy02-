@@ -357,7 +357,7 @@ Jika pengguna memasukkan operator yang tidak dikenali (bukan `+, -, *, atau /`),
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/37d0a9c76c964b3ed643bccb5447a24c433bba7b/Image/Screenshot%20From%202024-10-25%2008-24-32.png)
+![Screenshot (50)](https://github.com/user-attachments/assets/901416c4-7154-4f5d-b69f-3e9c0eccf2d3)
 
 Code program tersebut:
 
@@ -365,4 +365,4 @@ Code program tersebut:
 
 Dan ini flowchart nya
 
-![Screenshot (50)](https://github.com/user-attachments/assets/901416c4-7154-4f5d-b69f-3e9c0eccf2d3)
+![Screenshot 2024-10-26 051738](https://github.com/user-attachments/assets/5d36b67c-db9b-4939-98f9-1bed18b1f486)
