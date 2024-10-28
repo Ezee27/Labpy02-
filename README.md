@@ -361,8 +361,8 @@ Hasil program tersebut:
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/4803b880131b59042363f2f0655068b8e3438b89/Image/Kalku.png)
+![Screenshot (49)](https://github.com/user-attachments/assets/ceb215b0-d8c5-4af5-b416-09196cc6bf3f)
 
 Dan ini flowchart nya
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/6478a017cad461f2f5d5a1b6931d4ac7004497dd/Image/Screenshot%202024-10-26%20051738.png)
+![Screenshot (50)](https://github.com/user-attachments/assets/901416c4-7154-4f5d-b69f-3e9c0eccf2d3)
